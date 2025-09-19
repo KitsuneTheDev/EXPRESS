@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Express Demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "node --watch --env-file=.env server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KitsuneTheDev/EXPRESS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KitsuneTheDev/EXPRESS/issues"
+  },
+  "homepage": "https://github.com/KitsuneTheDev/EXPRESS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
